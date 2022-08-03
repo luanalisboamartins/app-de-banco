@@ -1,0 +1,1 @@
+email, numero, cpf, chave aleatoria e qr
